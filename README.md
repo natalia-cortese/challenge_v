@@ -1,6 +1,4 @@
 """
-Questions:
- 
 
     1. Complete the `MiniVenmo.create_user()` method to allow our application to create new users.
 
